@@ -59,6 +59,15 @@ The developed MATLAB GUI consists of 3 parts: PreProcess, Process and PostProces
 
 ## Project ScreenShots
 
+In this folder, you can find the screenshots of the application that is created for the ME361 Finite Element Method Course. /
+The application, here, is the extended version of the Simple Version in terms of preprocessing. In this GUI, you can create geometries including a void or including another material in the void. /
+The geometries include: 
+- Rhombus Void | Rhombus Inclusion
+- Circle Void  | Circle Inclusion
+- Square Void  | Square Inclusion
+
+The geometries can be meshed according to the users inputs similar to the Simple Version. 
+
 
 
 
