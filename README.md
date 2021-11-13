@@ -16,7 +16,10 @@ The developed MATLAB GUI consists of 3 parts: PreProcess, Process and PostProces
 - Create a rectangular domain by taking the width and height values
 - Decide the mesh density of the domain
 - Choose a 2D Element type in order to mesh the domain: (for this version two types of elements, D2TR3N and D2QU4N)
-- 
+- Decide how many Gauss Points to be used while calculating the stiffness matrix
+
+ <img width="1438" alt="Ekran Resmi 2021-11-13 15 14 20" src="https://user-images.githubusercontent.com/77242876/141643575-860207bf-10e9-4f51-97f6-9396ced2bcfb.png">
+
 
 
 
